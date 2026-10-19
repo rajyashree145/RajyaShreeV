@@ -1,6 +1,3 @@
-# RajyaShreeV
-
-
 <h1 align="center">Hi, I'm Rajya Shree V👋</h1>
 
 <h3 align="center">Mobile App Developer | Flutter Developer</h3>
@@ -23,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="[Your LinkedIn URL]"><b>LinkedIn</b></a>
+  <a href="linkedin.com/in/rajya-shree-vivekananthan-25956924b"><b>LinkedIn</b></a>
   &nbsp; · &nbsp;
   <b>rajyashree145@gmail.com</b>
 </p>
