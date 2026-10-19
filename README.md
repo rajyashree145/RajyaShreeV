@@ -91,5 +91,8 @@ An institution-focused mobile application.
 Web platform for student and institution workflows.
 
 - Built as part of the One Slate application ecosystem.
-- Add the public web link here when available.
+  
+<p>
+  <a href="https://www.oneslate.app">Visit Website</a>
+</p>
 
