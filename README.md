@@ -24,8 +24,7 @@
     LinkedIn
   </a>
     |  
-  <a href="mailto:rajyashree145.com">
-    Email
+    rajyashree145@gmail.com
   </a>
 </p>
 
