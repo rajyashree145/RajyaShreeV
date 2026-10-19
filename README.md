@@ -19,10 +19,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28" alt="Postman">
 </p>
 
+
 <p align="center">
-  <a href="linkedin.com/in/rajya-shree-vivekananthan-25956924b"><b>LinkedIn</b></a>
-  &nbsp; · &nbsp;
-  <b>rajyashree145@gmail.com</b>
+  <a href="https://www.linkedin.com/in/rajya-shree-vivekananthan-25956924b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
