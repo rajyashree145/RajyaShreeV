@@ -1,6 +1,4 @@
 # RajyaShreeV
-About me
-
 
 
 <h1 align="center">Hi, I'm Rajya Shree V👋</h1>
